@@ -1,0 +1,7 @@
+public/lib/*
+public/fonts/*
+public/documents/*
+public/img/*
+config/
+core/
+PHPMailer/
